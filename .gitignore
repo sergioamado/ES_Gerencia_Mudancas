@@ -1,0 +1,22 @@
+# Arquivos de ambiente virtual
+venv/
+.env
+
+# Arquivos de configuração sensíveis
+api_key_gemini.txt
+github_token.txt
+
+# Arquivos de saída
+*.log
+*.csv
+
+
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo

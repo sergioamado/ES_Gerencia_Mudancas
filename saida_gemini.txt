@@ -1,0 +1,539 @@
+Análise de Categorias de Issues (Mensal):
+
+Mês: 2021-08
+Total de Issues Analisadas: 22
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 22 issues (100.00%)
+
+Mês: 2021-09
+Total de Issues Analisadas: 155
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 155 issues (100.00%)
+
+Mês: 2021-10
+Total de Issues Analisadas: 140
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 140 issues (100.00%)
+
+Mês: 2021-11
+Total de Issues Analisadas: 86
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 86 issues (100.00%)
+
+Mês: 2021-12
+Total de Issues Analisadas: 135
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 135 issues (100.00%)
+
+Mês: 2022-01
+Total de Issues Analisadas: 84
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 84 issues (100.00%)
+
+Mês: 2022-02
+Total de Issues Analisadas: 110
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 110 issues (100.00%)
+
+Mês: 2022-03
+Total de Issues Analisadas: 114
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 114 issues (100.00%)
+
+Mês: 2022-04
+Total de Issues Analisadas: 112
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 112 issues (100.00%)
+
+Mês: 2022-05
+Total de Issues Analisadas: 135
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 135 issues (100.00%)
+
+Mês: 2022-06
+Total de Issues Analisadas: 122
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 122 issues (100.00%)
+
+Mês: 2022-07
+Total de Issues Analisadas: 153
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 153 issues (100.00%)
+
+Mês: 2022-08
+Total de Issues Analisadas: 109
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 109 issues (100.00%)
+
+Mês: 2022-09
+Total de Issues Analisadas: 110
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 110 issues (100.00%)
+
+Mês: 2022-10
+Total de Issues Analisadas: 101
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 101 issues (100.00%)
+
+Mês: 2022-11
+Total de Issues Analisadas: 93
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 93 issues (100.00%)
+
+Mês: 2022-12
+Total de Issues Analisadas: 109
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 109 issues (100.00%)
+
+Mês: 2023-01
+Total de Issues Analisadas: 124
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 124 issues (100.00%)
+
+Mês: 2023-02
+Total de Issues Analisadas: 85
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 85 issues (100.00%)
+
+Mês: 2023-03
+Total de Issues Analisadas: 164
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 164 issues (100.00%)
+
+Mês: 2023-04
+Total de Issues Analisadas: 88
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 88 issues (100.00%)
+
+Mês: 2023-05
+Total de Issues Analisadas: 76
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 76 issues (100.00%)
+
+Mês: 2023-06
+Total de Issues Analisadas: 76
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 76 issues (100.00%)
+
+Mês: 2023-07
+Total de Issues Analisadas: 62
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 62 issues (100.00%)
+
+Mês: 2023-08
+Total de Issues Analisadas: 63
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 63 issues (100.00%)
+
+Mês: 2023-09
+Total de Issues Analisadas: 52
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 52 issues (100.00%)
+
+Mês: 2023-10
+Total de Issues Analisadas: 36
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 36 issues (100.00%)
+
+Mês: 2023-11
+Total de Issues Analisadas: 34
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 34 issues (100.00%)
+
+Mês: 2023-12
+Total de Issues Analisadas: 40
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 40 issues (100.00%)
+
+Mês: 2024-01
+Total de Issues Analisadas: 28
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 28 issues (100.00%)
+
+Mês: 2024-02
+Total de Issues Analisadas: 41
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 41 issues (100.00%)
+
+Mês: 2024-03
+Total de Issues Analisadas: 74
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 74 issues (100.00%)
+
+Mês: 2024-04
+Total de Issues Analisadas: 34
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 34 issues (100.00%)
+
+Mês: 2024-05
+Total de Issues Analisadas: 47
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 47 issues (100.00%)
+
+Mês: 2024-06
+Total de Issues Analisadas: 27
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 27 issues (100.00%)
+
+Mês: 2024-07
+Total de Issues Analisadas: 30
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 30 issues (100.00%)
+
+Mês: 2024-08
+Total de Issues Analisadas: 47
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 47 issues (100.00%)
+
+Mês: 2024-09
+Total de Issues Analisadas: 38
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 38 issues (100.00%)
+
+Mês: 2024-10
+Total de Issues Analisadas: 50
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 50 issues (100.00%)
+
+Mês: 2024-11
+Total de Issues Analisadas: 25
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 25 issues (100.00%)
+
+Mês: 2024-12
+Total de Issues Analisadas: 22
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 22 issues (100.00%)
+
+Mês: 2025-01
+Total de Issues Analisadas: 22
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 22 issues (100.00%)
+
+Mês: 2025-02
+Total de Issues Analisadas: 21
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 21 issues (100.00%)
+
+Mês: 2025-03
+Total de Issues Analisadas: 22
+
+Resultados:
+- respectfulness: 0 issues (0.00%)
+- freedom: 0 issues (0.00%)
+- broadmindedness: 0 issues (0.00%)
+- social power: 0 issues (0.00%)
+- equity & equality: 0 issues (0.00%)
+- environment: 0 issues (0.00%)
+- desconhecido: 22 issues (100.00%)
+
+
+Palavras-chave Utilizadas por Categoria:
+- respectfulness: code of conduct, polite, rude
+- freedom: freedom, user choose, sovereign
+- broadmindedness: diversity, diverse, unconventional
+- social power: central authority, gatekeeper, monopoly
+- equity & equality: unfair, fairness, justice
+- environment: climate change, energy consumption, wildlife
+- desconhecido: 
