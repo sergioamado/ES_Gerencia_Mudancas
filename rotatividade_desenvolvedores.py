@@ -309,7 +309,7 @@ def generate_output_txt(monthly_category_counts, top_contributors, most_common_w
 
 def main():
     csv_file = "issues_fechadas.csv"  # Nome do arquivo CSV com as issues
-    output_file = "saida_gemini.txt"  # Nome do arquivo TXT de saída
+    output_file = "rotatividade_desenvolvedores.txt"  # Nome do arquivo TXT de saída
 
     # Analisa as issues do CSV mês a mês
     monthly_category_counts, top_contributors, most_common_words = analyze_issues_csv_monthly(csv_file)

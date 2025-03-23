@@ -135,4 +135,4 @@ if __name__ == "__main__":
     token = obter_token()
     releases, branches, milestones, labels = obter_informacoes_repositorio(token)
     escrever_arquivo(releases, branches, milestones, labels, token)
-    print("Arquivo 'Releases e Gerenciamento.txt' gerado com sucesso.")
+    print("bootstrap_analyzer.txt' gerado com sucesso.")

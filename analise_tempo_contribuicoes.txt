@@ -1,0 +1,90 @@
+Análise do Tempo de Contribuição do Contribuidor: necolas
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: mdo
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: ghost
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: tinyfly
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: pamelafox
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: dyve
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: martinbean
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: marcalj
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: paglias
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: andriijas
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: MGaetan89
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: jasny
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: lookfirst
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: purwandi
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: powder96
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: ansman
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: fat
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: simonfranz
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: Anahkiasen
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: buraktuyan
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: fionawhim
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: Merg1255
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: sannefoltz
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: BigBlueHat
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: quasipickle
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: leeaston
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: richardp-au
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: ctalkington
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: thezoggy
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+Análise do Tempo de Contribuição do Contribuidor: ShaunR
+Erro ao analisar com o Gemini: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+

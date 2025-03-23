@@ -12,7 +12,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminho para o seu arquivo CSV
 CSV_FILE = "closed_issues.csv"
-OUTPUT_FILE = "analise_tempo_contribuicoes.txt"
+OUTPUT_FILE = "tempo_contribuicao.txt"
 
 # Lista dos 30 principais contribuidores (mantenha para filtrar os resultados)
 TOP_CONTRIBUTORS = [

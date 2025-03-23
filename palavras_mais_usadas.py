@@ -7,12 +7,12 @@ import os
 from collections import Counter
 
 # Substitua com sua chave de API do Gemini
-GOOGLE_API_KEY = "AIzaSyDETu14kGy9717uaEjLqRZe3tJyWaKo8_8"  # os.environ.get("GOOGLE_API_KEY")
+GOOGLE_API_KEY = "SUA CHAVE GEMINI"  # os.environ.get("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminho para o seu arquivo CSV
 CSV_FILE = "closed_issues.csv"
-OUTPUT_FILE = "analise_contribuidores.txt"
+OUTPUT_FILE = "palavras_mais_usadas.txt"
 
 # Lista dos 30 principais contribuidores
 TOP_CONTRIBUTORS = [
