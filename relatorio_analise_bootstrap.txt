@@ -1,0 +1,260 @@
+Relatório de Análise de Releases e Gerenciamento de Mudanças do Bootstrap
+
+1. O Bootstrap utiliza Versionamento Semântico (MAJOR.MINOR.PATCH). MAJOR: Mudanças incompatíveis com versões anteriores, MINOR: Adição de funcionalidades mantendo compatibilidade, PATCH: Correções de bugs e segurança.
+
+2. A branch `main` é a principal para desenvolvimento. Branches como `v4-dev` são usadas para manutenção de versões antigas.
+
+3. Informações sobre como contribuir podem ser encontradas no arquivo CONTRIBUTING.md. Este arquivo especifica detalhes sobre o processo interno de releases.
+
+4. A branch `main` é a principal para desenvolvimento. Branches como `v4-dev` são usadas para manutenção de versões antigas.
+
+5. O Bootstrap utiliza Milestones para planejar releases. O Bootstrap não utiliza milestones.
+
+6. O Bootstrap possui um sistema de testes robusto para garantir a qualidade do código. Isso é evidenciado nos pull requests.
+
+7. Releases 'stable' são lançadas após um período de testes e correções.
+
+8. O Bootstrap garante que novas funcionalidades e correções de bugs sejam testadas antes de serem incluídas em uma release.
+
+9. Principais labels: feature (novas funcionalidades), bug (correções), v4/v5 (versão afetada), documentation (atualização da documentação), scss/js (componente afetado). Nenhuma label encontrada.
+
+10. As labels `v4` e `v5` ajudam a organizar as issues e pull requests por versão do Bootstrap.
+
+11. A label `feature` indica o planejamento de novas funcionalidades.
+
+12. Pull requests são usados para implementar mudanças, e estão associados às issues.
+
+13. A label `documentation` indica a necessidade de atualizar a documentação.
+
+14. Contribuidores podem encontrar informações no arquivo CONTRIBUTING.md. As informações são suficientes para entender o processo de releases.
+
+15. O Bootstrap comunica mudanças e novidades por meio de posts no blog, releases no GitHub e documentação atualizada.
+
+16. O Bootstrap organiza seu código em componentes (SCSS, JS), refletido nas labels das issues.
+
+17. A branch `main` é o desenvolvimento contínuo, `v4-dev` é para manutenção de versões.
+
+18. Uma nova versão é lançada como 'stable' após testes e correções.
+
+19. O sistema de testes contribui para a qualidade e estabilidade das releases.
+
+20. Desafios incluem gerenciar mudanças em grande escala e garantir compatibilidade com versões anteriores.
+
+Versionamento Semântico. MAJOR: 0, MINOR: 4, PATCH: 6
+
+Branches. Quantidade de branches: 0. Nomes: .  (A finalidade de cada branch não pode ser determinada automaticamente).
+
+CONTRIBUTING.md. Conteúdo: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bootstrap/.github/CONTRIBUTING.md at main · twbs/bootstrap · GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Menu
+
+Toggle navigation
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Sign in
+          
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Actions
+        Automate ... (O conteúdo completo está no arquivo CONTRIBUTING.md).
+
+Milestones. Milestones: .  São usados para planejar releases.
+
+Labels. Labels: .  Usadas para classificar issues e pull requests.
+
+Releases. Quantidade de releases: 10. Informações: [{'version': 'v5.3.3', 'date': '2024-02-20'}, {'version': 'v5.3.2', 'date': 'Data inválida'}, {'version': 'v5.3.1', 'date': '2023-09-14'}, {'version': 'v5.3.0', 'date': 'Data inválida'}, {'version': 'v5.3.0-alpha3', 'date': '2023-07-26'}, {'version': 'v5.3.0-alpha2', 'date': 'Data inválida'}, {'version': 'v5.3.0-alpha1', 'date': '2023-05-30'}, {'version': 'v5.2.3', 'date': 'Data inválida'}, {'version': 'v5.2.2', 'date': '2023-04-03'}, {'version': 'v5.2.1', 'date': 'Data inválida'}].
+
