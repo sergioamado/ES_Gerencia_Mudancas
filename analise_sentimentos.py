@@ -1,3 +1,7 @@
+#codigo do artigo predictng
+# a saida não produziu todas as palavras que os 
+#contribuidores mais usam
+
 import os
 import pandas as pd
 import google.generativeai as genai
