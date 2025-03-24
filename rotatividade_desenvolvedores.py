@@ -1,3 +1,6 @@
+#codigo do artigo 2
+# a saida não produziu todos os resultados esperados
+# tentar rodar no deepseeker
 import os
 import pandas as pd
 import google.generativeai as genai

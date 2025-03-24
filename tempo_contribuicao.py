@@ -1,3 +1,5 @@
+#artigo 1
+
 import csv
 import google.generativeai as genai
 import os
